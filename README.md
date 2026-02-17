@@ -1,8 +1,67 @@
-- 👋 Hi, I’m @AntoineHERBAUX
-- 👀 I’m interested in maths and computer sciences
-- 🌱 I’m currently learning C, HTML and Java
-- 💞️ I’m colaborating with Team 127
-- 📫 How to reach me ...
+# Hi there, I'm Antoine Herbaux! 👋
+
+### 🎓 Master Student in Big Data & AI @ JUNIA ISEN
+
+I am an engineering student passionate about bridging the gap between **Agriculture/Nature** and **Advanced Technology**.  
+Currently transitioning from a strong agricultural background to becoming a **Data Engineer & DevOps Specialist**.
+
+---
+
+### 🚀 **Current Status**
+
+- ⚡ **Incoming Intern:** Operations Data Analyst at **Coreso** (Brussels) [April - Aug 2026].
+- 🔎 **Looking for:** An **Apprenticeship (Alternance)** in Data Engineering / DevOps starting **September 2026** (Lille area).
+- 🌱 **Currently learning:** Advanced Kubernetes orchestration & Cloud Data Pipelines.
+
+---
+
+### 🛠 **Tech Stack**
+
+**Data & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Other Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 💡 **Featured Projects**
+
+#### 🌾 **CropSense (Data Engineering & Research)**
+*End-to-end data pipeline for plant phenotyping.*
+- **Tech:** Python, ETL, MongoDB, SQL.
+- **Goal:** Structured and cleaned heterogeneous data (multispectral imagery + metadata) to enable predictive analysis for agriculture.
+
+#### 📍 **MeetAway (Mobile & GIS)**
+*Geolocation-based meeting app.*
+- **Tech:** Android, Google Maps API, GPS Tracking.
+- **Goal:** Real-time location sharing and route optimization for groups.
+
+---
+
+### 📈 **GitHub Stats**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AntoineHERBAUX&show_icons=true&theme=radical&hide_border=true" height="160" alt="Antoine's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineHERBAUX&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 **Let's Connect!**
+
+- **LinkedIn:** [Antoine Herbaux](https://www.linkedin.com/in/antoine-herbaux/)
+- **Email:** antoine.herbaux28@gmail.com
 
 <!---
 AntoineHERBAUX/AntoineHERBAUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
