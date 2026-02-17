@@ -49,13 +49,6 @@ Currently transitioning from a strong agricultural background to becoming a **Da
 
 ---
 
-### 📈 **GitHub Stats**
-
-![Antoine's Stats](https://github-readme-stats.vercel.app/api?username=AntoineHERBAUX&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineHERBAUX&layout=compact&theme=radical)
-
----
 
 ### 📫 **Let's Connect!**
 
