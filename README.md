@@ -2,8 +2,8 @@
 
 ### 🎓 Master Student in Big Data & AI @ JUNIA ISEN
 
-I am an engineering student passionate about bridging the gap between **Agriculture/Nature** and **Advanced Technology**.  
-Currently transitioning from a strong agricultural background to becoming a **Data Engineer & DevOps Specialist**.
+I am an engineering student passionate about **Advanced Technology**.  
+Currently **Data Analyst/Engineer & DevOps Specialist**.
 
 ---
 
