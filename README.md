@@ -34,6 +34,7 @@ Passionate about industrial automation, containerization, local AI implementatio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC-1133BB?style=for-the-badge&logo=opc&logoColor=white)
 
 **Languages**
 
